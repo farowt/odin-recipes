@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project made in HTML to show food recipes and how to make them, including ingredients and step by step instructions
